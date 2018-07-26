@@ -1,0 +1,1 @@
+The index.html file shows that basic HTML5 code used to create this very basic blog template
